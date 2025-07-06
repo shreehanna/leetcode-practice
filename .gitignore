@@ -228,3 +228,9 @@ __pycache__/
 
 
 .idea/
+.venv/
+.idea/
+__pycache__/
+
+
+.venv/
