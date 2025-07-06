@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+B
 # Distribution / packaging
 .Python
 build/
@@ -205,3 +206,25 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Ignore virtual environments
+.venv/
+
+
+
+
+^X
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment folder
+.venv/
+
+# Ignore IDE configs (optional but good)
+.idea/
+.vscode/
+
+
+.idea/
